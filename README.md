@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tres!:wave:
 - 👀 I’m interested in ... Web Design and Plants :potted_plant:
-- 🌱 I’m currently learning ... HTML and CSS
+- 🌱 I’m currently learning ... JS
 - 💞️ I’m looking to collaborate on ... Art Projects
 - 📫 How to reach me ... tphill760@gmail.com
 
