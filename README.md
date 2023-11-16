@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tres!:wave:
 - 👀 I’m interested in ... Web Design and Plants :potted_plant:
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... FastAPI/SQL Alchemy
 - 💞️ I’m looking to collaborate on ... Art/Web Projects
 - 📫 How to reach me ... tphill760@gmail.com
 
