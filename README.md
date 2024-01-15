@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tres!:wave:
+- 👋 Hi, I’m Tres!
 - 👀 I’m interested in ... Web Design and Plants :potted_plant:
 - 🌱 I’m currently learning ... FastAPI/SQL Alchemy
 - 💞️ I’m looking to collaborate on ... Art/Web Projects
